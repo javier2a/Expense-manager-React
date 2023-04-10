@@ -1,4 +1,4 @@
-# Pacientes Veteniraria React
+# Expense manager React
 
 * An app to manage your expenses.
 
