@@ -6,6 +6,7 @@
 
 
 * https://rococo-duckanoo-facd40.netlify.app/
+* https://javier2a.github.io/Expense-manager-React/
 
 # Skills used in this project
 
